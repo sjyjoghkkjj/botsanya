@@ -1453,7 +1453,7 @@ async function saveKazna()
 }
 
 
-vk.setOptions({ token: '9ba8afc2fce6002b8c32e2f4d0bb6372644f352b8bb946e8c088d972d9f890467028196162350ebc23bd3', pollingGroupId:196808409 });
+vk.setOptions({ token: 'das', pollingGroupId:196808409 });
 const { updates, snippets } = vk;
 
 updates.startPolling();
