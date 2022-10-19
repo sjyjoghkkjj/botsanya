@@ -123,7 +123,7 @@ const yachts = [
 
 const stranas = [
 
-	{
+	{9ba8afc2fce6002b8c32e2f4d0bb6372644f352b8bb946e8c088d972d9f890467028196162350ebc23bd3
 		name: 'Не указана',
 		cost: 0,
 		id: 1
@@ -1453,7 +1453,7 @@ async function saveKazna()
 }
 
 
-vk.setOptions({ token: '340340a988caee664ce1d322e5a8391c6883caa0eed5a944d7298a3902d005302ee5bed48144c4f9853e5', pollingGroupId:194798831 });
+vk.setOptions({ token: '9ba8afc2fce6002b8c32e2f4d0bb6372644f352b8bb946e8c088d972d9f890467028196162350ebc23bd3', pollingGroupId:196808409 });
 const { updates, snippets } = vk;
 
 updates.startPolling();
